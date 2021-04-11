@@ -9,5 +9,5 @@ Zen-Programming/Zen-Programming is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-I love to learn more about programming lenguages, but for my age and experience, i still need to read some books, learn more about
+I love to learn more about programming languages, but for my age and experience, i still need to read some books, learn more about
 algorithms and data structures, as it will help me to get better job offers.
